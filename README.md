@@ -58,6 +58,13 @@ Mass
 📸 Screenshots
 Coming soon — or feel free to add your own!
 
+## 🌍 Live Demo
+
+Check out the live version here:  
+➡️ [https://basicconverter.netlify.app](https://basicconverter.netlify.app/)
+
+##
+
 ✅ To-Do / Improvements
  Add keyboard Enter support for conversion
 
