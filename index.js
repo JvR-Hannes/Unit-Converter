@@ -17,7 +17,7 @@ convertBtn.addEventListener("click", function() {
     lengthConvert()
     volumeConvert()
     massConvert()
-    userInput.value = 0
+    userInput.value = ""
 })
 
 function lengthConvert() {
